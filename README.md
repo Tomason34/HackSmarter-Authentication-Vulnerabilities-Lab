@@ -1,3 +1,4 @@
+⚠️ Disclosure: This write‑up was created with AI assistance, but I did all the actual lab work.
 # HackSmarter – Authentication Vulnerabilities Lab
 
 ## Objective
